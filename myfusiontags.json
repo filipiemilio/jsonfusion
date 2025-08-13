@@ -117,8 +117,8 @@
       "type": "filter",
       "isEnabled": true,
       "tagStyle": "filled",
-      "tagColor": "#FFDDAB",
-      "textColor": "#DB8203",
+      "tagColor": "#919191",
+      "textColor": "#0e0e0e",
       "imageURL": "",
       "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8"
     },
@@ -129,8 +129,8 @@
       "type": "filter",
       "isEnabled": true,
       "tagStyle": "filled",
-      "tagColor": "#D2D1FE",
-      "textColor": "#1D52F5",
+      "tagColor": "#919191",
+      "textColor": "#0e0e0e",
       "imageURL": "",
       "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8"
     },
@@ -177,8 +177,8 @@
       "type": "filter",
       "isEnabled": true,
       "tagStyle": "filled",
-      "tagColor": "#B9EBC7",
-      "textColor": "#099E2E",
+      "tagColor": "#919191",
+      "textColor": "#0e0e0e",
       "imageURL": "",
       "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f"
     },
